@@ -1,0 +1,7 @@
+# Ignore all files without extension
+*
+!*.*
+!*/
+
+# Ignore object files
+*.o
